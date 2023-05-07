@@ -31,6 +31,7 @@ def generate_random_card_name():
 
     return card.name
 
+
 #listen for request from client
 while True:
     print('Waiting for request...')
